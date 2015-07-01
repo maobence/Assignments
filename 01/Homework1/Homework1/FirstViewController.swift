@@ -8,7 +8,6 @@ class FirstViewController: UIViewController {
   TODO one: hook up a button in interface builder to a new function (to be written) in this class. Also hook up the label to this class. When the button is clicked, the function to be written must make a label say ‘hello world!’
     */
     
-    
     @IBAction func helloButton(sender: AnyObject) {
         
         helloLabel.text = "hello world!"
@@ -16,9 +15,6 @@ class FirstViewController: UIViewController {
         can()
         canDo()
     }
-    
-    
-    
     
     @IBOutlet weak var helloLabel: UILabel!
     
@@ -28,46 +24,30 @@ class FirstViewController: UIViewController {
     */
     
     @IBOutlet weak var name: UITextField!
-    
-    
-    
-    
-    
     @IBOutlet weak var age: UITextField!
     
     
     func greet() {
-        
         println("Hello " + name.text + ", you are " + age.text + " years old!")
-        
-        
-        
+
     }
-    
-    
-    
-    
-    
-    
-    
+
   /*TODO three: Hook up the button to a NEW function (in addition to the two above). Print “You can drink” below the above text if the user is above 21. If they are above 18, print “you can vote”. If they are above 16, print “You can drive” */
     
     
     func can() {
         
         if ( age.text.toInt()! > 21) {
-            
-            println(" You can drink")
-        }
-        
+            println(" You can drink")}
         if ( age.text.toInt()! > 18) {
-            println(" you can vote")
-        }
-        
+            println(" you can vote")}
         if ( age.text.toInt()! > 16) {
-            println(" You can drive")
+            println(" You can drive")}
         }
-        }
+    
+    
+    
+    
     
     
 

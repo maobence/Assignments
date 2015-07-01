@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>68C8E25D-BFD4-411D-B8D6-F864C60C7C57</string>
+	<string>A693829F-6078-4067-A31D-365252F342D8</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Homework1</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FDB05D08F583A14F6E232798DFB8F64084E66BBB</key>
 		<string>https://github.com/maobence/Assignments.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>01/Homework1/Homework1.xcodeproj</string>
+	<string>mob-8-3/mob-8-3.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FDB05D08F583A14F6E232798DFB8F64084E66BBB</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/maobence/Assignments.git</string>

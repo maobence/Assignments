@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>68C8E25D-BFD4-411D-B8D6-F864C60C7C57</string>
+	<string>DBD5187F-2C40-4D5B-A8CE-228ADD2A3BCE</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Homework1</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FDB05D08F583A14F6E232798DFB8F64084E66BBB</key>
-		<string>https://github.com/maobence/Assignments.git</string>
+		<key>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</key>
+		<string>github.com:ga-students/MOB-HK-1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>01/Homework1/Homework1.xcodeproj</string>
+	<string>Homework/02/Homework2/Homework2.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FDB05D08F583A14F6E232798DFB8F64084E66BBB</key>
-		<string>../../../..</string>
+		<key>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</key>
+		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/maobence/Assignments.git</string>
+	<string>github.com:ga-students/MOB-HK-1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FDB05D08F583A14F6E232798DFB8F64084E66BBB</string>
+	<string>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FDB05D08F583A14F6E232798DFB8F64084E66BBB</string>
+			<string>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Assignments</string>
+			<string>MOB-HK-1%20(course%20materials)</string>
 		</dict>
 	</array>
 </dict>
